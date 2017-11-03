@@ -1,0 +1,78 @@
+.gray-background {
+/*     background-color: gray; */
+/*   background-image: url('http://wallpapersboom.net/wp-content/uploads/2015/07/3537_the_clash.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  opacity: .89; */
+ background: #9d8585;
+
+  }
+/*   .picbox{
+    padding: 3px;
+    background-color: white;
+    align: center;
+    border-radius: 50%;
+    width: 610px;
+
+    } */
+  .box{
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    text-align: center;
+    padding: 10px;
+    }
+  h1 {
+    font-size: 77px;
+/*     font-family: Goblin one; */
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    text-shadow: 1px 1px white;
+  }
+
+
+  h2 {
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    color: black;
+    text-shadow: .5px .5px white;
+}
+
+  .smaller-image{
+    width: 600px;
+    border-radius: 50%;
+
+    }
+
+
+  .thin-black-border {
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+  }
+
+  ul {
+    text-align: center;
+    list-style-type: none;
+    font-size: 18px;
+/*     text-decoration: underline; */
+    margin-bottom: 4%;
+    padding-top: 2%;
+  }
+
+  p {
+    text-align: center;
+    font-size: 1.4em;
+    color: black;
+    padding-left: 15vw;
+    padding-right: 15vw;
+
+  }
+
+.albumArt {
+  width: 20%;
+  height: 30%;
+  margin-left: 4%;
+  border: 2px solid black;
+}
